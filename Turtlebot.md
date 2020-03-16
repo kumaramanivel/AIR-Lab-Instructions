@@ -49,7 +49,9 @@ The map will be saved in your home directory with the name of the map you specif
 
 
 ## Navigating the robot using the generated map
-Firstly, run the first step from the above mentioned instructions to start the robot.
+Again, run the below command to start the robot.
+
+`roslaunch turtlebot_bringup minimal.launch --screen`
 
 To navigate the robot, run the following commands.
 
