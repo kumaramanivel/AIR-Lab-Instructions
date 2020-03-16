@@ -6,7 +6,7 @@
 * Turn on the laptop.
 * Make sure the USB from the robot is connected to the laptop.
 * Please ensure that the wireless keyboard belongs to the same laptop that you are using.
-* Sign in to your account on the laptop. If you do not have your account created, contact the lab administrator.
+* Sign in to your account on the laptop. If you do not have your account, contact the lab administrator.
 
 ## Running the robot for the first time.
 Before running the robot, you need to run the following commands.
@@ -35,7 +35,7 @@ The below command starts the gmapping node.
 
 `roslaunch turtlebot_navigation gmapping_demo.launch --screen`
 
-Now, start the following command to start 'rviz' visualization tool.
+Now, run the following command to start 'rviz' visualization tool.
 
 `roslaunch turtlebot_rviz_launchers view_navigation.launch --screen`
 
