@@ -3,7 +3,7 @@
 
 If this is your first time, please check the [Wiki page](https://github.com/bu-air-lab/UR5e_arm/wiki) of this repository to learn how to work with the arm.
 
-## To start the UR5e?
+## How to start the UR5e?
 * Turn on the robot using the above wiki page.
 * Turn on the machine connected to the UR5e arm.
 * Make sure the USB from the UR5e is connected to the machine.
