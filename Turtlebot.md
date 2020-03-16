@@ -53,7 +53,7 @@ Again, run the below command to start the robot.
 
 `roslaunch turtlebot_bringup minimal.launch --screen`
 
-To navigate the robot, run the following commands.
+To navigate the robot, run the following command.
 
 `roslaunch turtlebot_navigation amcl_demo.launch map_file:=~/mapName.yaml`
 
