@@ -60,3 +60,5 @@ Then run the following command to start the 'rviz' visualization tool.
 `roslaunch turtlebot_rviz_launchers view_navigation.launch --screen`
 
 Then use the 2D Pose estimate button to give an initial pose of the robot. Now, using the 2D Navigation goal button you can give a goal to the robot and the robot will autonomously navigate to the 2D coordinate.
+
+Once you are done working with the turtlebot, turn it off and also turn off the laptop.
